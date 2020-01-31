@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: de.flexguse.micronaut.demo
+---
+testFramework: spock
+sourceLanguage: java
